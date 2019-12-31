@@ -1,0 +1,16 @@
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\respositorUnitSw.deps.json
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\respositorUnitSw.runtimeconfig.json
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\respositorUnitSw.runtimeconfig.dev.json
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\respositorUnitSw.dll
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\respositorUnitSw.pdb
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\obj\Debug\netcoreapp2.1\respositorUnitSw.RazorAssemblyInfo.cache
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\obj\Debug\netcoreapp2.1\respositorUnitSw.RazorAssemblyInfo.cs
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\obj\Debug\netcoreapp2.1\respositorUnitSw.AssemblyInfoInputs.cache
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\obj\Debug\netcoreapp2.1\respositorUnitSw.AssemblyInfo.cs
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\obj\Debug\netcoreapp2.1\respositorUnitSw.RazorTargetAssemblyInfo.cache
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\obj\Debug\netcoreapp2.1\respositorUnitSw.dll
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\obj\Debug\netcoreapp2.1\respositorUnitSw.pdb
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\swdowiak\source\repos\respositorUnitSw\respositorUnitSw\bin\Debug\netcoreapp2.1\nlog.config
