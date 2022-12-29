@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\UnitTestRepository\\UnitTestRepository.csproj": {}
+    "C:\\dyskD\\gity\\repositoryGeneric\\UnitTestRepository\\UnitTestRepository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\respositorUnitSw\\respositorUnitSw.csproj": {
+    "C:\\dyskD\\gity\\repositoryGeneric\\respositorUnitSw\\respositorUnitSw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\respositorUnitSw\\respositorUnitSw.csproj",
+        "projectUniqueName": "C:\\dyskD\\gity\\repositoryGeneric\\respositorUnitSw\\respositorUnitSw.csproj",
         "projectName": "respositorUnitSw",
-        "projectPath": "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\respositorUnitSw\\respositorUnitSw.csproj",
+        "projectPath": "C:\\dyskD\\gity\\repositoryGeneric\\respositorUnitSw\\respositorUnitSw.csproj",
         "packagesPath": "C:\\Users\\swdowiak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\respositorUnitSw\\obj\\",
+        "outputPath": "C:\\dyskD\\gity\\repositoryGeneric\\respositorUnitSw\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\swdowiak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "EntityFramework": {
               "target": "Package",
@@ -77,24 +80,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\UnitTestRepository\\UnitTestRepository.csproj": {
+    "C:\\dyskD\\gity\\repositoryGeneric\\UnitTestRepository\\UnitTestRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\UnitTestRepository\\UnitTestRepository.csproj",
+        "projectUniqueName": "C:\\dyskD\\gity\\repositoryGeneric\\UnitTestRepository\\UnitTestRepository.csproj",
         "projectName": "UnitTestRepository",
-        "projectPath": "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\UnitTestRepository\\UnitTestRepository.csproj",
+        "projectPath": "C:\\dyskD\\gity\\repositoryGeneric\\UnitTestRepository\\UnitTestRepository.csproj",
         "packagesPath": "C:\\Users\\swdowiak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\UnitTestRepository\\obj\\",
+        "outputPath": "C:\\dyskD\\gity\\repositoryGeneric\\UnitTestRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\swdowiak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,9 +110,10 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\respositorUnitSw\\respositorUnitSw.csproj": {
-                "projectPath": "C:\\Users\\swdowiak\\source\\repos\\respositorUnitSw\\respositorUnitSw\\respositorUnitSw.csproj"
+              "C:\\dyskD\\gity\\repositoryGeneric\\respositorUnitSw\\respositorUnitSw.csproj": {
+                "projectPath": "C:\\dyskD\\gity\\repositoryGeneric\\respositorUnitSw\\respositorUnitSw.csproj"
               }
             }
           }
@@ -121,6 +126,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
@@ -155,7 +161,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.107\\RuntimeIdentifierGraph.json"
         }
       }
     }
